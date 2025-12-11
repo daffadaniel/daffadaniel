@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daffadaniel
 - 👀 I’m interested in data science, AI, and Machine Learning
-- 🌱 I’m currently learning mathematics in University of Indonesia
+- 🌱 I’m just graduated from University of Indonesia
 - 📫 How to reach me: daffadaniel16@gmail.com
 
 <!---
