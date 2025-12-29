@@ -2,6 +2,7 @@
 - 👀 I’m interested in data science, AI, and Machine Learning
 - 🌱 I just graduated from Universitas Indonesia
 - 📫 How to reach me: daffadaniel16@gmail.com
+- Check out my portofolio website: daffadaniel.github.io
 
 <!---
 daffadaniel/daffadaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
